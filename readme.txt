@@ -13,7 +13,7 @@ This plugin disables all RSS/Atom/RDF feeds on your site. It is useful if you us
 
 There are a couple of options to tweak the plugin's behaviour - go to `Settings -> Reading` to see them.
 
-If you come across any bugs or have suggestions, please use the plugin support forum. I can't fix it if I don't know it's broken! Please check the [FAQ](http://wordpress.org/extend/plugins/disable-feeds/faq/) for common issues.
+If you come across any bugs or have suggestions, please use the plugin support forum. I can't fix it if I don't know it's broken! Please check the [FAQ](https://wordpress.org/plugins/disable-feeds/#faq) for common issues.
 
 Want to contribute? Here's the [GitHub development repository](https://github.com/solarissmoke/disable-feeds).
 
